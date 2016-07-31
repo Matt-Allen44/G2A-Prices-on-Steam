@@ -3,7 +3,7 @@
 
   "name": "G2A Prices on Steam",
   "description": "A Chrome extension showing a Steam games G2A.com",
-  "version": "1.0",
+  "version": "0.1",
 
   "browser_action": {
    "default_icon": "icon.png",
