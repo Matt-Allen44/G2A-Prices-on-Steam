@@ -3,7 +3,7 @@
   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
   "name": "G2AtoSteam",
   "description": "A Chrome extension showing G2A.com results on Steam",
-  "version": "0.1",
+  "version": "1.0.2",
 
   "browser_action": {
    "default_icon": "icon.png"
@@ -11,7 +11,7 @@
   "permissions": [
       "http://*.google.com/",
       "https://*.google.com/",
-      "http://localhost/"
+      "http://104.236.128.206/"
   ],
   "content_scripts": [
     {
